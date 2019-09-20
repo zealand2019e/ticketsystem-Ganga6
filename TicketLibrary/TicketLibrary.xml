@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TicketLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:TicketLibrary.Car.Price">
+            <summary>
+            this is returning the price of car
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
